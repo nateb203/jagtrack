@@ -22,10 +22,10 @@ NEXT QUARTER PLANNING (myclassesnextquarter.html)
 
 
 My Classes for Next Quarter:
-- A Block: [Class Name] - [Time]
-- B Block: [Class Name] - [Time] (or Free Period)
-- C Block: [Class Name] - [Time]
-- D Block: [Class Name] - [Time]
+- A Block: A Block: ECO2001 Prin of Macroeconomics Monday and Wednesday 8:25 AM - 9:55 AM
+- B Block: B Block: ENG1021 English Composition I  Monday - Thursday 10:00 AM - 11:30 AM
+- C Block: C Block: Office Aide 12:15 PM - 1:45 PM
+- D Block: D Block: PSC2025 Comparative Government Monday and Wednesday1:50 PM - 3:20 PM
 (Add 1st Period if applicable)
 
 
@@ -37,6 +37,11 @@ Explanation:
 - If you have a free period, how do you plan to use it productively?
 - How will these classes help you reach your academic or career goals?]
 
+I choose these classes as some I just need but I want a mostly chill schedule. 
+I'm not really looking forward to anything to be honest I just want to get through the year.
+The hardest would be ELA as its a 4 time class so yeah.
+I don't have a free period.
+The classes will help me pass and graduate!
 
 Free Period Challenge (if applicable):
 [If you have a free period, did you complete the challenge to hide it on mobile? Explain how you implemented it using d-none d-sm-block]
