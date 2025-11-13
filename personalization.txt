@@ -1,0 +1,60 @@
+
+
+JagTrack Module 1 - Written Reflection
+Student: [Nathanael (Nate) Boucher]
+Date: [11/13/2025]
+
+
+---
+
+
+CHOICE POINT #1: COLOR THEME
+Option Chosen: [A, B, C, or D] D
+Explanation: [3-5 sentences about your color choices, why they work well together, and any accessibility considerations you made]
+I chose to do a dark themed as I didn't like all the bright colors I felt it works better to be mostly darkness. 
+I put the black with a blue accent as the links at the bottom were also a blue accent just as hyperlinks are but I thought it wouldn't be too bad to combine it together. 
+They just work together as I like blue and if this is being personzalized for me I like it but its a soft blue so it doesn't strain me.
+
+---
+
+
+NEXT QUARTER PLANNING (myclassesnextquarter.html)
+
+
+My Classes for Next Quarter:
+- A Block: [Class Name] - [Time]
+- B Block: [Class Name] - [Time] (or Free Period)
+- C Block: [Class Name] - [Time]
+- D Block: [Class Name] - [Time]
+(Add 1st Period if applicable)
+
+
+Explanation:
+[Write 4-6 sentences about your next quarter schedule:
+- Why did you choose these classes?
+- What are you most looking forward to learning?
+- Which class do you think will be most challenging and why?
+- If you have a free period, how do you plan to use it productively?
+- How will these classes help you reach your academic or career goals?]
+
+
+Free Period Challenge (if applicable):
+[If you have a free period, did you complete the challenge to hide it on mobile? Explain how you implemented it using d-none d-sm-block]
+
+
+---
+
+
+REFLECTION
+
+
+What I Learned:
+[Write 5-8 sentences reflecting on Module 1:
+- What Bootstrap concepts made sense to you?
+- What was most challenging?
+- How do you feel about your CSS customization?
+- What would you add to JagTrack in the future?
+- How will you use this site for planning next quarter?]
+
+
+Hours Spent: [Approximate time on this module]
