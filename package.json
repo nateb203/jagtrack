@@ -4,16 +4,21 @@
   "description": "This is a website made to help Jefferson Academy students organize their classes",
   "main": "index.html",
   "scripts": {
-    "lite": "lite-server",
-    "start": "npm run lite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "vite": "^5.0.0"
   },
   "dependencies": {
+    "@huggingface/inference": "^2.8.1",
+    "@mantine/core": "^8.3.8",
+    "@mantine/hooks": "^8.3.8",
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"

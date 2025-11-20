@@ -1,0 +1,183 @@
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+  color: #000000;
+  background-color: #000000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #000000;
+}
+
+#app {
+  width: 100%;
+  max-width: 800px;
+}
+
+/* Main container background */
+.chat-container {
+  background: #68a8f1; /* Change to match your JagTrack card color */
+}
+
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  margin: 0;
+  font-size: 2rem;
+}
+
+.chat-display {
+  background: #0c0c0c;
+  border-radius: 8px;
+  padding: 20px;
+  min-height: 400px;
+  max-height: 500px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.welcome-message {
+  color: #ffffff;
+  text-align: center;
+  font-style: italic;
+  padding: 20px;
+}
+
+.message {
+  padding: 12px 16px;
+  border-radius: 8px;
+  max-width: 85%;
+  word-wrap: break-word;
+}
+
+/* User messages */
+.user-message {
+  background: #ffffff; /* Match your send button color */
+}
+
+
+.ai-message {
+  background: #0c0c0c;
+  color: #ffffff;
+  align-self: flex-start;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+}
+
+#user-input {
+  flex: 1;
+  padding: 12px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: inherit;
+  resize: vertical;
+  min-height: 60px;
+}
+
+#user-input:focus {
+  outline: none;
+  border-color: #ffffff;
+}
+
+/* Send button */
+#send-button {
+  background: #68a8f1; /* Change to your JagTrack primary color */
+}
+
+
+#send-button:hover {
+  background: #5169b9; /* Change to a slightly darker version */
+}
+
+
+#send-button:active {
+  background: #1d4ed8;
+}
+
+#send-button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.loading {
+  text-align: center;
+  color: #6b7280;
+  font-style: italic;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.error-message {
+  background: #fef2f2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+  padding: 12px 16px;
+  border-radius: 8px;
+  align-self: center;
+  max-width: 100%;
+}
+
+/* Prompt section border */
+.prompt-section {
+  border: 2px solid #5169b9; /* Match your theme */
+}
+
+
+.prompt-label {
+  font-weight: 600;
+  color: #1e40af;
+  margin: 0 0 8px 0;
+  font-size: 0.9rem;
+}
+
+.prompt-template {
+  background: white;
+  padding: 12px;
+  border-radius: 6px;
+  color: #374151;
+  font-style: italic;
+  margin: 0 0 12px 0;
+  border: 1px solid #bfdbfe;
+}
+
+/* Prompt template button */
+.template-button {
+  background: #68a8f1; /* Match your theme */
+}
+
+
+.template-button:hover {
+  background: #2563eb;
+}
+
+.template-button:active {
+  background: #1d4ed8;
+}
